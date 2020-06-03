@@ -104,31 +104,3 @@ winning_candidate_summary = (
     f"-----------------------------------------\n")
     
 print(winning_candidate_summary)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# # use open function to write data with 'w' on file
-# with open(saved_file, "w") as write_file:
-
-#     #write data onto file
-#     write_file.write("Counties in the Election")
-#     write_file.write("\n-------------------------\n")
-#     write_file.write("Arapahoe\nJefferson\nDenver")
-
-
