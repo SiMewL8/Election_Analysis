@@ -39,10 +39,30 @@ After sifting through the data using Python, here is some of the analysis presen
 
 ***
 
-
 ## Challenge Overview
+
+After completing the election audit, Seth asked to verify the voter turnout data by counting all the votes per county. Again, the aspiring data analytic steps up to the plate and takes on the challenge.
+
+1. Specify which unique counties had votes
+2. Calculate the total number of votes and the percentage of vote from each county
+3. Declare the county with the largest voter turnout
+
+
 
 ## Challenge Summary
 
+After some head-scratching hours of challenging code, now there is a final audit for the whole election. The focus for this challenge will be the counties. 
 
+Total Vote Count in all the Counties: 369,711
+- County Names
+    - Arapahoe
+    - Denver
+    - Jefferson
+- County Voter Results
+    - Arapahoe County had received 6.7% of the votes with a total voter turnout of 24,801 votes.
+    - Denver County had received 82.8% of the votes with a total voter turnout of 306,055 votes.
+    - Jefferson County had received 10.5% of the votes with a total voter turnout of 24,801.
 
+**The county with the largest voter turnout was the Denver county with 306,055 votes with the highest percentage of 82.8%.**
+
+***
